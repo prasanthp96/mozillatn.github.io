@@ -7,6 +7,134 @@
     <atom:link href="http://mozillatn.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Featured Add-ons e10s Compatibility sprint</title>
+        
+        
+          <description>&lt;p&gt;Hello Mozillian!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 30 Sep 2016 21:50:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/MozActivate-AMO-e10s-compatibility-sprint/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/MozActivate-AMO-e10s-compatibility-sprint/</guid>
+      </item>
+    
+      <item>
+        <title>Software Freedom Day-2016</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;http://mozillatn.github.io/assets/sfd_front.jpg&quot; alt=&quot;Software Freedom Day2016&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 30 Sep 2016 21:50:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Software-Freedom-Day-2016/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Software-Freedom-Day-2016/</guid>
+      </item>
+    
+      <item>
+        <title>Top Sites</title>
+        
+        
+          <description>&lt;p&gt;&lt;a href=&quot;http://bit.ly/FxAcSt&quot;&gt;Activity Stream&lt;/a&gt; for Firefox is a collection/ bundle of things you do in browser that can  be displayed in a constructive and significant manner. This stream will make it easier to navigate through website and content faster. It helps you to rediscover the things you love the most on the web.&lt;/p&gt;
+
+&lt;p&gt;One of the feature in Activity Stream is  displaying the most viewed websites. This feature will be featured on the New Tab page. You can find this add-on in the &lt;a href=&quot;http://bit.ly/TNFxTp&quot;&gt;Test Pilot&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;This blog displays the most viewed website by the user (i.e the most viewed content or website used by the user). The format will be in the form of tiles where the user will click on a tile , which will link it to a specific website. At maximum, we can have 5 tiles. Each tile popping up to different websites. Each time you open a tab, you’ll see your top sites based on your bookmarks and history.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 17 Sep 2016 19:28:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Top-Sites/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Top-Sites/</guid>
+      </item>
+    
+      <item>
+        <title>MozillaTN Twitter access to Amazing Contributors</title>
+        
+        
+          <description>&lt;p&gt;Recently, Mozilla introduced Open Mic where communities can be given access to Instagram handle to post more updates about events. It is really one of the inspiring move which is loved by contributors who maintain communities social Media accounts. Recently for Mozilla India meetup, we got opportunity to post directly from mozillagram. &lt;a href=&quot;http://mozillatn.github.io&quot;&gt;MozillaTN&lt;/a&gt; community would like to follow similar Openness, as it motivate more contributors who actively bring rich knowledge and passion to promote Open Web.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 16 Sep 2016 19:28:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Introducing-MozillaTN-Open-Twitter-access/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Introducing-MozillaTN-Open-Twitter-access/</guid>
+      </item>
+    
+      <item>
+        <title>Highlights</title>
+        
+        
+          <description>&lt;p&gt;An &lt;a href=&quot;http://bit.ly/FxAcSt&quot;&gt;Activity Stream&lt;/a&gt; is a list of recent activities performed by an individual, typically on a single website or a browser. Activity Stream for Firefox is a collection of all the things you do in the browser that you care about and visit often. Here, contents are shown with images based on your  recent pages, screenshots, downloads, closing sessions, notifications, and improve your experience. This provides a great way to interact with the contents and pages the user has used over short period of time.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 15 Sep 2016 21:28:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Highlights/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Highlights/</guid>
+      </item>
+    
+      <item>
+        <title>Timeline of Bookmarks</title>
+        
+        
+          <description>&lt;p&gt;&lt;a href=&quot;http://bit.ly/FxAcSt&quot;&gt;Activity Stream&lt;/a&gt; for Firefox is a collection of all the things you do in the browser that you care about and is displayed in a rich and meaningful way in a single page. It shows rich content with images from recent pages, screenshots, downloads, closing sessions, notifications, and improve your results in the awesome bar. Eventually it hope to be the central feed of the things every user care about. This is currently available with the &lt;a href=&quot;http://bit.ly/TNFxTp&quot;&gt;Test Pilot&lt;/a&gt; Addon. You can &lt;a href=&quot;http://mozillatn.github.io/blog/Installing-Activity-Stream&quot;&gt;enable&lt;/a&gt; it, after installing the test pilot add-on. The remarkable features of the &lt;a href=&quot;http://bit.ly/FxAcSt&quot;&gt;Activity Stream&lt;/a&gt; are visual redesign of Bookmark’s page, your top Visited websites, trending stories from Pocket in Highlights section and playing videos from Youtube. This blog speaks on the characteristics of the bookmark page.&lt;/p&gt;
+
+&lt;p&gt;Searching is the source of exploring, but searching a topic in web sometimes ends in finding many new things. Remembering all those pages is really difficult. So a common technique used by everyone is bookmark. But when the count of pages we marked exceeds a certain level, finding the relevant page in the bookmark search becomes a task. Testpilot Activity stream is with a solution now. We have a &lt;em&gt;timeline for bookmarks&lt;/em&gt; that list the bookmarks made by the user in a well organised way . This helps us to traverse through the list we stored if we know the time we saved it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mozillatn.github.io/assets/activity_stream_bookmarks.png&quot; alt=&quot;Activity stream Bookmark page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like the above screenshot the web pages marked by the users are grouped together as today, yesterday, last week, last month and so on towards the past. This helps us to find the pages which we have marked in very early days.&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 13 Sep 2016 06:50:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Timeline-of-Bookmarks/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Timeline-of-Bookmarks/</guid>
+      </item>
+    
+      <item>
+        <title>Enable Firefox TestPilot Activity Stream &amp; Contribute</title>
+        
+        
+          <description>&lt;p&gt;In previous &lt;a href=&quot;http://mozillatn.github.io/blog/Firefox-test-pilot/&quot;&gt;post&lt;/a&gt; we have been discussing about Test Pilot project. In this post we will be discussing more about how to enable &lt;a href=&quot;http://bit.ly/FxAcSt&quot;&gt;Activity Stream&lt;/a&gt; after installing &lt;a href=&quot;http://bit.ly/TNFxTp&quot;&gt;Test Pilot&lt;/a&gt; Addon.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 12 Sep 2016 20:30:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Installing-Activity-Stream/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Installing-Activity-Stream/</guid>
+      </item>
+    
+      <item>
+        <title>Firefox Test Pilot</title>
+        
+        
+          <description>&lt;p&gt;&lt;strong&gt;Let’s get started with Firefox test pilot&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 11 Sep 2016 13:30:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/Firefox-test-pilot/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/Firefox-test-pilot/</guid>
+      </item>
+    
+      <item>
+        <title>A New Promising Power On Track</title>
+        
+        
+          <description>&lt;p&gt;&lt;em&gt;‘It took me quite a long time to develop a voice, and now I have it, I am not going to be silent.’&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Women folk had lost their voice due to some historical reason in the past. This made them completely inactive in the society. But the present scenario is quite different.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 06 Sep 2016 06:50:00 +0530</pubDate>
+        <link>http://mozillatn.github.io/blog/A-New-Promising-Power-On-Track/</link>
+        <guid isPermaLink="true">http://mozillatn.github.io/blog/A-New-Promising-Power-On-Track/</guid>
+      </item>
+    
+      <item>
         <title>Result - Firefox 49.0b3 Beta Test day </title>
         
         
@@ -17,123 +145,6 @@
         <pubDate>Fri, 19 Aug 2016 21:50:00 +0530</pubDate>
         <link>http://mozillatn.github.io/blog/Firefox49-beta3-Testing-day-report/</link>
         <guid isPermaLink="true">http://mozillatn.github.io/blog/Firefox49-beta3-Testing-day-report/</guid>
-      </item>
-    
-      <item>
-        <title>Firefox 49.0b3 Beta Test day invitation</title>
-        
-        
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;https://pbs.twimg.com/media/ChI8q4UU8AAcw9t.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 10 Aug 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/call-for-Testing-day/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/call-for-Testing-day/</guid>
-      </item>
-    
-      <item>
-        <title>Weeks of Contribution 2016 - Localization Update</title>
-        
-        
-          <description>&lt;p&gt;&lt;img src=&quot;http://mozillatn.github.io/assets/MozillTN_WOC_L10N.jpg&quot; alt=&quot;Weeks of Contribution Localization&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 03 Aug 2016 01:20:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/weeks-of-contribution-l10n-report/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/weeks-of-contribution-l10n-report/</guid>
-      </item>
-    
-      <item>
-        <title>Dummies guide to Team building</title>
-        
-        
-          <description>&lt;p&gt;A team is a bunch of misfits that join together to achieve a common goal. So find a bunch of misfits. Easy to find them if you don’t know how. Just yell out that you are forming a team and a bunch of awesome people will come.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 01 Aug 2016 20:13:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/dummies-guide-to-team-building/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/dummies-guide-to-team-building/</guid>
-      </item>
-    
-      <item>
-        <title>Result - Firefox 49.0a2 Aurora Test day </title>
-        
-        
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;https://pbs.twimg.com/media/ChI8q4UU8AAcw9t.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 21 Jul 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Testing-day-report/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Testing-day-report/</guid>
-      </item>
-    
-      <item>
-        <title>Firefox 49.0a2 Aurora Test day invitation</title>
-        
-        
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;https://pbs.twimg.com/media/ChI8q4UU8AAcw9t.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 21 Jul 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/call-for-Testing-day/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/call-for-Testing-day/</guid>
-      </item>
-    
-      <item>
-        <title>Social Media Team Half yearly updates</title>
-        
-        
-          <description>&lt;p&gt;Hello Mozillians,&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 14 Jul 2016 23:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Social-Media-Team-Half-yearly-updates/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Social-Media-Team-Half-yearly-updates/</guid>
-      </item>
-    
-      <item>
-        <title>Weeks of Contribution 2016 - Addons</title>
-        
-        
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;http://mozillatn.github.io/assets/add_ons_mozillatnwoc.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 06 Jul 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-AMO/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-AMO/</guid>
-      </item>
-    
-      <item>
-        <title>Weeks of Contribution 2016 - QA - Firefox Nightly</title>
-        
-        
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;/assets/MozillTN_WOC_QA.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 21 Jun 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-QA/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-QA/</guid>
-      </item>
-    
-      <item>
-        <title>Weeks of Contribution 2016 - SUMO</title>
-        
-        
-          <description>&lt;p&gt;&lt;img height=&quot;20%&quot; width=&quot;100%&quot; src=&quot;http://mozillatn.github.io/assets/SUMO_TN.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 20 Jun 2016 21:50:00 +0530</pubDate>
-        <link>http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-SUMO/</link>
-        <guid isPermaLink="true">http://mozillatn.github.io/blog/Weeks-Of-Contribution-2016-SUMO/</guid>
       </item>
     
   </channel>
